@@ -1,4 +1,4 @@
-# Order Book Snapshot Query Processing System
+# Order Book Snapshot Query Processing System Design Documentation
 
 ## Overview
 The Order Book Snapshot Query Processing System is designed to efficiently handle high-frequency financial data. This system processes raw market data, maintains an up-to-date order book, periodically generates time-series snapshots, and supports optimized querying for historical data. This document details the design principles, architecture, algorithms, and future improvements.
